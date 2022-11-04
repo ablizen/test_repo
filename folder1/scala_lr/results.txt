@@ -1,0 +1,284 @@
+iter 0
+rmse on test dataset: 127.27506401824158
+iter 1
+rmse on test dataset: 116.19963185655487
+iter 2
+rmse on test dataset: 106.09602518588507
+iter 3
+rmse on test dataset: 96.87816835898333
+iter 4
+rmse on test dataset: 88.46768947488728
+iter 5
+rmse on test dataset: 80.79322293241313
+iter 6
+rmse on test dataset: 73.78977591757814
+iter 7
+rmse on test dataset: 67.39815288582756
+iter 8
+rmse on test dataset: 61.5644326593678
+iter 9
+rmse on test dataset: 56.23949326588553
+iter 10
+rmse on test dataset: 51.37858010264274
+iter 11
+rmse on test dataset: 46.940913424054564
+iter 12
+rmse on test dataset: 42.88933152558498
+iter 13
+rmse on test dataset: 39.18996633593799
+iter 14
+rmse on test dataset: 35.8119484365077
+iter 15
+rmse on test dataset: 32.727138804966955
+iter 16
+rmse on test dataset: 29.909884831519612
+iter 17
+rmse on test dataset: 27.336798384228867
+iter 18
+rmse on test dataset: 24.986553906243266
+iter 19
+rmse on test dataset: 22.839704714721872
+iter 20
+rmse on test dataset: 20.878515840669326
+iter 21
+rmse on test dataset: 19.086811902402257
+iter 22
+rmse on test dataset: 17.449838644494992
+iter 23
+rmse on test dataset: 15.954136900161805
+iter 24
+rmse on test dataset: 14.587427849359454
+iter 25
+rmse on test dataset: 13.338508548554866
+iter 26
+rmse on test dataset: 12.197156802106937
+iter 27
+rmse on test dataset: 11.154044530470522
+iter 28
+rmse on test dataset: 10.200658867771006
+iter 29
+rmse on test dataset: 9.329230291462958
+iter 30
+rmse on test dataset: 8.532667150453529
+iter 31
+rmse on test dataset: 7.804496015848704
+iter 32
+rmse on test dataset: 7.1388073309217175
+iter 33
+rmse on test dataset: 6.530205884506691
+iter 34
+rmse on test dataset: 5.973765675240035
+iter 35
+rmse on test dataset: 5.46498877331567
+iter 36
+rmse on test dataset: 4.999767822059059
+iter 37
+rmse on test dataset: 4.5743518539945525
+iter 38
+rmse on test dataset: 4.185315125484778
+iter 39
+rmse on test dataset: 3.829528700734734
+iter 40
+rmse on test dataset: 3.5041345402264
+iter 41
+rmse on test dataset: 3.2065218707081207
+iter 42
+rmse on test dataset: 2.934305633910864
+iter 43
+rmse on test dataset: 2.685306829387168
+iter 44
+rmse on test dataset: 2.457534583435447
+iter 45
+rmse on test dataset: 2.2491697911354436
+iter 46
+rmse on test dataset: 2.0585501922178095
+iter 47
+rmse on test dataset: 1.8841567539477906
+iter 48
+rmse on test dataset: 1.7246012455330626
+iter 49
+rmse on test dataset: 1.578614898872845
+iter 50
+rmse on test dataset: 1.445038059841618
+iter 51
+rmse on test dataset: 1.3228107428332538
+iter 52
+rmse on test dataset: 1.210964009054464
+iter 53
+rmse on test dataset: 1.1086120961227595
+iter 54
+rmse on test dataset: 1.0149452329550441
+iter 55
+rmse on test dataset: 0.9292230797874169
+iter 56
+rmse on test dataset: 0.8507687384966043
+iter 57
+rmse on test dataset: 0.7789632832460215
+iter 58
+rmse on test dataset: 0.7132407658986738
+iter 59
+rmse on test dataset: 0.6530836546632115
+iter 60
+rmse on test dataset: 0.5980186681047683
+iter 61
+rmse on test dataset: 0.5476129699910344
+iter 62
+rmse on test dataset: 0.5014706934854508
+iter 63
+rmse on test dataset: 0.45922976597022186
+iter 64
+rmse on test dataset: 0.4205590083071585
+iter 65
+rmse on test dataset: 0.385155484644674
+iter 66
+rmse on test dataset: 0.35274208097646403
+iter 67
+rmse on test dataset: 0.32306529256824135
+iter 68
+rmse on test dataset: 0.2958932021111937
+iter 69
+rmse on test dataset: 0.2710136320486551
+iter 70
+rmse on test dataset: 0.2482324559703687
+iter 71
+rmse on test dataset: 0.22737205528895557
+iter 72
+rmse on test dataset: 0.20826990861661426
+iter 73
+rmse on test dataset: 0.19077730235812196
+iter 74
+rmse on test dataset: 0.17475815203722872
+iter 75
+rmse on test dataset: 0.16008792478660847
+iter 76
+rmse on test dataset: 0.14665265426463417
+iter 77
+rmse on test dataset: 0.13434804002208234
+iter 78
+rmse on test dataset: 0.12307862403502434
+iter 79
+rmse on test dataset: 0.11275703775285052
+iter 80
+rmse on test dataset: 0.10330331358739138
+iter 81
+rmse on test dataset: 0.09464425529598348
+iter 82
+rmse on test dataset: 0.08671286219177417
+iter 83
+rmse on test dataset: 0.0794478025535625
+iter 84
+rmse on test dataset: 0.0727929320076588
+iter 85
+rmse on test dataset: 0.06669685301995722
+iter 86
+rmse on test dataset: 0.06111251197008139
+iter 87
+rmse on test dataset: 0.055996830584057196
+iter 88
+rmse on test dataset: 0.05131036878028931
+iter 89
+rmse on test dataset: 0.04701701623753521
+iter 90
+rmse on test dataset: 0.04308371022538601
+iter 91
+rmse on test dataset: 0.03948017744990386
+iter 92
+rmse on test dataset: 0.03617869786018091
+iter 93
+rmse on test dataset: 0.033153888538541454
+iter 94
+rmse on test dataset: 0.030382505958289244
+iter 95
+rmse on test dataset: 0.02784326504058612
+iter 96
+rmse on test dataset: 0.025516673576435604
+iter 97
+rmse on test dataset: 0.02338488070304323
+iter 98
+rmse on test dataset: 0.021431538236157784
+iter 99
+rmse on test dataset: 0.019641673762633923
+iter 100
+rmse on test dataset: 0.01800157449151647
+iter 101
+rmse on test dataset: 0.016498680947516952
+iter 102
+rmse on test dataset: 0.015121489669291137
+iter 103
+rmse on test dataset: 0.01385946414646985
+iter 104
+rmse on test dataset: 0.012702953295023738
+iter 105
+rmse on test dataset: 0.011643116830111187
+iter 106
+rmse on test dataset: 0.01067185695062101
+iter 107
+rmse on test dataset: 0.009781755799380532
+iter 108
+rmse on test dataset: 0.008966018208746573
+iter 109
+rmse on test dataset: 0.008218419283317029
+iter 110
+rmse on test dataset: 0.007533256409348712
+iter 111
+rmse on test dataset: 0.006905305315768274
+iter 112
+rmse on test dataset: 0.006329779843331993
+iter 113
+rmse on test dataset: 0.005802295107984433
+iter 114
+rmse on test dataset: 0.005318833770862906
+iter 115
+rmse on test dataset: 0.004875715152119616
+iter 116
+rmse on test dataset: 0.0044695669479522075
+iter 117
+rmse on test dataset: 0.004097299330585273
+iter 118
+rmse on test dataset: 0.0037560812298731675
+iter 119
+rmse on test dataset: 0.003443318612047358
+iter 120
+rmse on test dataset: 0.003156634586909165
+iter 121
+rmse on test dataset: 0.0028938511891285507
+iter 122
+rmse on test dataset: 0.0026529726921840145
+iter 123
+rmse on test dataset: 0.002432170325691072
+iter 124
+rmse on test dataset: 0.002229768277721575
+iter 125
+rmse on test dataset: 0.002044230873714747
+iter 126
+rmse on test dataset: 0.0018741508327587842
+iter 127
+rmse on test dataset: 0.0017182385104829612
+iter 128
+rmse on test dataset: 0.0015753120454128585
+iter 129
+rmse on test dataset: 0.0014442883327351148
+iter 130
+rmse on test dataset: 0.00132417475570222
+iter 131
+rmse on test dataset: 0.0012140616109943252
+iter 132
+rmse on test dataset: 0.001113115169584059
+iter 133
+rmse on test dataset: 0.0010205713197002388
+iter 134
+rmse on test dataset: 9.357297428575326E-4
+iter 135
+rmse on test dataset: 8.579485781818795E-4
+iter 136
+rmse on test dataset: 7.86639533977089E-4
+iter 137
+rmse on test dataset: 7.212634089555551E-4
+iter 138
+rmse on test dataset: 6.613259887104677E-4
+
+
+results
+weights: 
+DenseVector(27.599568094470236, 63.718896102024814, 54.221035456716834, 94.63489166356446, 59.96436189077796)
+bias: 0.5000121305554567
